@@ -1,0 +1,1 @@
+xcopy /s /e /i "C:\Program Files\jdk-8u431-windows-i586\jre" "Z:\KootPanKing_Proj\DIST\jre"

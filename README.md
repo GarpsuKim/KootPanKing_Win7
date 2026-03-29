@@ -70,7 +70,7 @@ _ReleaseBLD_All.bat
 
 ■ 프로그램 기능 설명 : 네이버 끝판왕 : (https://blog.naver.com/garpsu/224213400580)
 
-■ ZIP 다운로드 : https://github.com/GarpsuKim/KootPanKing/releases/download/v1.0.0/KootPanKing.zip
+■ ZIP 다운로드[Win7] : https://github.com/GarpsuKim/KootPanKing_Win7/releases/tag/1.0.0
 
 //
 
